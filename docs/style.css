@@ -1,0 +1,18 @@
+img{
+    border-radius:50%;/*画像の角を丸くする*/
+}
+section{
+    border-width:1px;
+    border-color:gray;
+    border-style:solid;
+    border-radius:8px;
+    padding:16px;
+    margin-bottom:8px;
+    background-image:url(img/cosmos.jpeg);
+    text-color:#ffffff;
+
+}
+body{
+    text-align:center;
+    text-color:#999999;
+}
